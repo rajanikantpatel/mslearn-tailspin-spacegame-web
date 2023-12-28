@@ -1,4 +1,5 @@
 trigger:
+- task: SonarQubePostTest@1
   - '*'
   
 pool:
